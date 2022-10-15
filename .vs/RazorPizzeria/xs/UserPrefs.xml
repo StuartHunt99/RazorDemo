@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{7B149492-08F9-45CB-ADE8-A64DB79D5899}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPizzeria/Pages/Forms/CustomPizza.cshtml">
+    <Files>
+      <File FileName="RazorPizzeria/Pages/Index.cshtml" Line="11" Column="11" IsPinned="True" />
+      <File FileName="RazorPizzeria/Pages/Pizza.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPizzeria/appsettings.json" Line="1" Column="1" />
+      <File FileName="RazorPizzeria/Program.cs" Line="25" Column="1" />
+      <File FileName="RazorPizzeria/Pages/Checkout/Checkout.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPizzeria/Pages/Checkout/ThankYou.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPizzeria/Pages/Forms/CustomPizza.cshtml" Line="6" Column="1" />
+      <File FileName="RazorPizzeria/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPizzeria/wwwroot/css/site.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPizzeria" expanded="True">
+            <Node name="RazorPizzeria" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Checkout" expanded="True" />
+                <Node name="Forms" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="images" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RazorPizzeria PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
